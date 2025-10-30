@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @webspoilt
 - 👀 I’m interested in Web Penetration Testing
-- 🌱 I’m currently learning Cryptography
+- 🌱 I’m currently learning Blockchain
 - 💞️ I’m looking for a project to work
-- 📫 How to reach me on instagram fackebook 
+- 📫 reach me on instagram -@zero.day._ or X- @Gh0st_118
 
 <!---
 webspoilt/webspoilt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
