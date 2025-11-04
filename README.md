@@ -3,7 +3,7 @@
 
 # 👋 Hi, I'm Biswajeet Arukha
 
-**Cybersecurity Enthusiast & Blockchain Explorer | Bug Hunter | Ethical Hacker**
+**MERN STACK Devloper | Cybersecurity Enthusiast & Blockchain Explorer | Bug Hunter | Ethical Hacker**
 
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=600&color=36BCF7&width=435&lines=I+call+bugs+as+features+😂.;Exploring+systems+and+security.;Always+learning%2C+always+building." alt="Typing SVG" />
