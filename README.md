@@ -14,16 +14,16 @@ Minimalist. Developer. Problem Solver.
 
 <!-- Simple animated SVG: Typing effect below your intro -->
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=600&color=36BCF7&width=435&lines=I+love+building+clean+UIs.;Exploring+data+and+systems.;Always+learning%2C+always+building." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=600&color=36BCF7&width=435&lines=I+call+bugs+as+features+😂.;Exploring+systems+and+security.;Always+learning%2C+always+building." alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🌱 Focused on **[your interest/stack, e.g. MERN, Data Science]**
-- 🔍 Exploring **[field/technology]**
-- 📫 Reach me at: [youremail@example.com](mailto:youremail@example.com)
+- 🌱 Focused on **[MERN, Data Science,Cybersecurity]**
+- 🔍 Exploring **[Cryptography]**
+- 📫 Reach me at: [heyzerodayhere@gmail.com](mailto:heyzerodayhere@gmail.com)
 
 ---
 
