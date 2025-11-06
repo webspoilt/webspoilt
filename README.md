@@ -1,12 +1,11 @@
-
 ---
 
 # 👋 Hi, I'm Biswajeet Arukha
 
-**MERN STACK Devloper | Cybersecurity Enthusiast & Blockchain Explorer | Bug Hunter | Ethical Hacker**
+**🚀 Full-Stack Developer | 🛡️ Cybersecurity Expert | 📊 Data Scientist | 🤖 AI Integration Specialist**
 
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=600&color=36BCF7&width=435&lines=I+call+bugs+as+features+😂.;Exploring+systems+and+security.;Always+learning%2C+always+building." alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=600&color=36BCF7&width=600&lines=Building+Revolutionary+Tech+Solutions;20%2B+Premium+Projects+Across+Multiple+Domains;MERN+%7C+Cybersecurity+%7C+Data+Science+%7C+AI;Helping+Companies+Bridge+Innovation+%26+Security" alt="Typing SVG" />
 </p>
 
 ---
@@ -14,36 +13,45 @@
 ## 🛡️ About Me
 
 - 🔍 **Bug Hunter** - Finding vulnerabilities and turning them into features (as I like to say!)
-- 💻 **MERN Stack Developer** - Proficient in MongoDB, Express.js, React, and Node.js
-- 🎯 Currently working on **MERN Stack projects** while integrating security best practices
+- 💻 **MERN Stack Developer** - Building scalable, secure full-stack applications
+- 🎯 **Portfolio Showcase**: [🌟 View My 20+ Premium Projects](https://your-portfolio-website.netlify.app)
 - 📊 **Data Structures & Algorithms** enthusiast - Building strong problem-solving foundations
-- 🔐 Currently exploring **Cryptography, Smart Contracts, and DeFi Security**
+- 🔐 Currently exploring **AI, Blockchain, and Quantum Computing**
 - 🎯 Passionate about **ethical hacking** and improving cybersecurity practices
-- 🌱 Focused on **[Web Penetration Testing, MERN Stack, Data Science, Blockchain]**
-- 🏆 Actively learning **blockchain security** and decentralized technologies
+- 🌱 Focused on **[Web Penetration Testing, MERN Stack, Data Science, AI Integration]**
+- 🏆 Actively building **revolutionary integrated solutions**
 - 📫 Reach me at: [heyzerodayhere@gmail.com](mailto:heyzerodayhere@gmail.com)
-- 🔗 Connect professionally on [LinkedIn](https://linkedin.com/in/yourprofile)
+- 🔗 Connect professionally on [LinkedIn](https://linkedin.com/in/webspoilt)
 
 ---
 
 ## 🛠️ Tech Stack
 
-<div align="left">
+<div align="center">
 
 **Languages:**
-`JavaScript` • `Python` • `Solidity`
+`JavaScript` • `Python` • `TypeScript` • `Solidity`
 
 **Frontend:**
-`React` • `HTML` • `CSS` • `Node.js`
+`React 18` • `Next.js` • `HTML5` • `CSS3` • `Framer Motion`
 
 **Backend & Database:**
-`Node.js` • `Express.js` • `MongoDB`
+`Node.js` • `Express.js` • `MongoDB` • `Redis`
+
+**AI & Data Science:**
+`TensorFlow` • `PyTorch` • `Pandas` • `NumPy` • `Scikit-learn`
 
 **Security & Tools:**
 `Burp Suite` • `Nmap` • `Metasploit` • `Wireshark` • `OWASP ZAP` • `SQLmap` • `John the Ripper`
 
+**Cloud & DevOps:**
+`AWS` • `Docker` • `Kubernetes` • `CI/CD`
+
 **Blockchain:**
-`Ethereum` • `Smart Contracts` • `Web3.js`
+`Ethereum` • `Smart Contracts` • `Web3.js` • `IPFS`
+
+**Emerging Tech:**
+`Quantum Computing` • `Edge AI` • `Digital Twins` • `Metaverse`
 
 </div>
 
@@ -51,92 +59,439 @@
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=webspoilt&show_icons=true&hide_title=true&theme=default" height="150"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=webspoilt&show_icons=true&hide_title=false&theme=default" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=webspoilt&theme=default" height="150"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=webspoilt&layout=compact&theme=default" height="150"/>
+</p>
+
+---
+
+## 🚀 Featured Projects Portfolio
+
+### 🛡️ Cybersecurity Projects (5)
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🔍 Network Intrusion Detection System (NIDS)**
+- **Level**: Intermediate | **Status**: ✅ Completed
+- **Tech**: Python, Scapy, ML, Scikit-learn, SQL, Wireshark
+- **Features**: Real-time packet analysis, ML anomaly detection, web dashboard
+- **GitHub**: [View Project](https://github.com/webspoilt/network-intrusion-detection)
+- **Demo**: Live monitoring interface
+
+</td>
+<td width="50%" valign="top">
+
+**🔐 Secure Password Manager**
+- **Level**: Intermediate | **Status**: ✅ Completed
+- **Tech**: Python, AES-256, SQLite, PBKDF2, Argon2, 2FA
+- **Features**: Cross-platform support, strength analyzer, secure import/export
+- **GitHub**: [View Project](https://github.com/webspoilt/secure-password-manager)
+- **Demo**: Desktop application
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🕷️ Web Vulnerability Scanner**
+- **Level**: Intermediate | **Status**: ✅ Completed
+- **Tech**: Python, Requests, BeautifulSoup, OWASP Top 10
+- **Features**: Automated vulnerability detection, detailed reporting
+- **GitHub**: [View Project](https://github.com/webspoilt/web-vulnerability-scanner)
+- **Demo**: Automated scanning tool
+
+</td>
+<td width="50%" valign="top">
+
+**📊 SIEM Dashboard & Log Analysis**
+- **Level**: Advanced | **Status**: ✅ Completed
+- **Tech**: Apache Kafka, Elasticsearch, TensorFlow, Neo4j, AWS, Azure
+- **Features**: Multi-source aggregation, ML threat detection, automated response
+- **GitHub**: [View Project](https://github.com/webspoilt/siem-dashboard-system)
+- **Demo**: Enterprise dashboard
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🤖 AI-Powered Threat Hunting Platform**
+- **Level**: Advanced | **Status**: ✅ Completed
+- **Tech**: TensorFlow, PyTorch, spaCy, Graph Neural Networks, Blockchain
+- **Features**: Autonomous hunting, attribution analysis, predictive modeling
+- **GitHub**: [View Project](https://github.com/webspoilt/ai-threat-hunting-platform)
+- **Demo**: Cognitive AI platform
+
+</td>
+</tr>
+</table>
+
+### 💻 MERN Stack Projects (5)
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🛒 E-commerce Platform**
+- **Level**: Beginner | **Status**: ✅ Completed
+- **Tech**: React.js, Node.js, Express.js, MongoDB, Stripe, JWT
+- **Features**: Product catalog, shopping cart, payment integration, admin panel
+- **GitHub**: [View Project](https://github.com/webspoilt/ecommerce-platform)
+- **Demo**: Full shopping experience
+
+</td>
+<td width="50%" valign="top">
+
+**💬 Real-Time Chat Application**
+- **Level**: Beginner | **Status**: ✅ Completed
+- **Tech**: React.js, Socket.IO, Node.js, Express.js, MongoDB, JWT
+- **Features**: Real-time messaging, presence indicators, file sharing
+- **GitHub**: [View Project](https://github.com/webspoilt/realtime-chat-app)
+- **Demo**: Live chat interface
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**📋 Project Management Dashboard**
+- **Level**: Intermediate | **Status**: ✅ Completed
+- **Tech**: React.js, TypeScript, Redux Toolkit, Node.js, Express.js, MongoDB
+- **Features**: Kanban boards, task tracking, team collaboration, analytics
+- **GitHub**: [View Project](https://github.com/webspoilt/project-management-dashboard)
+- **Demo**: Collaborative workspace
+
+</td>
+<td width="50%" valign="top">
+
+**🤖 AI-Powered Content Management System**
+- **Level**: Advanced | **Status**: ✅ Completed
+- **Tech**: Next.js, TypeScript, OpenAI API, Google Vision API, Docker, Redis
+- **Features**: Automated content generation, SEO optimization, collaborative editing
+- **GitHub**: [View Project](https://github.com/webspoilt/ai-powered-cms)
+- **Demo**: AI-native CMS platform
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🏢 Multi-Tenant SaaS Platform**
+- **Level**: Advanced | **Status**: ✅ Completed
+- **Tech**: Next.js, TypeScript, D3.js, Apache Kafka, Stripe, Kubernetes
+- **Features**: Tenant isolation, subscription management, real-time analytics
+- **GitHub**: [View Project](https://github.com/webspoilt/multi-tenant-saas-platform)
+- **Demo**: Enterprise SaaS solution
+
+</td>
+</tr>
+</table>
+
+### 📊 Data Science Projects (5)
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**👥 Customer Segmentation Analysis**
+- **Level**: Beginner | **Status**: ✅ Completed
+- **Tech**: Python, Pandas, NumPy, Scikit-learn, Matplotlib, Plotly
+- **Features**: K-means clustering, persona development, marketing insights
+- **GitHub**: [View Project](https://github.com/webspoilt/customer-segmentation-analysis)
+- **Demo**: Interactive dashboard
+
+</td>
+<td width="50%" valign="top">
+
+**📈 Sales Forecasting System**
+- **Level**: Beginner | **Status**: ✅ Completed
+- **Tech**: Python, ARIMA, Prophet, LSTM, Statsmodels, Flask
+- **Features**: Time series analysis, multiple forecasting models, inventory optimization
+- **GitHub**: [View Project](https://github.com/webspoilt/sales-forecasting-system)
+- **Demo**: Predictive analytics platform
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🎯 E-commerce Recommendation System**
+- **Level**: Intermediate | **Status**: ✅ Completed
+- **Tech**: Python, Matrix Factorization, Neural CF, ALS, TensorFlow
+- **Features**: Collaborative filtering, deep learning, real-time recommendations
+- **GitHub**: [View Project](https://github.com/webspoilt/ecommerce-recommendation-system)
+- **Demo**: ML-powered engine
+
+</td>
+<td width="50%" valign="top">
+
+**🚨 Real-Time Fraud Detection**
+- **Level**: Advanced | **Status**: ✅ Completed
+- **Tech**: Python, Apache Kafka, XGBoost, LightGBM, TensorFlow, Redis
+- **Features**: Stream processing, ensemble methods, graph neural networks
+- **GitHub**: [View Project](https://github.com/webspoilt/real-time-fraud-detection)
+- **Demo**: Enterprise monitoring
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🏥 Predictive Healthcare Analytics**
+- **Level**: Advanced | **Status**: ✅ Completed
+- **Tech**: Python, Apache Spark, TensorFlow, PyTorch, spaCy, OpenCV
+- **Features**: Multi-modal processing, disease prediction, privacy-preserving ML
+- **GitHub**: [View Project](https://github.com/webspoilt/predictive-healthcare-analytics)
+- **Demo**: Clinical decision support
+
+</td>
+</tr>
+</table>
+
+### 🚀 Revolutionary Advanced Projects (5)
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🛡️ Next-Gen Cyber Sentinel (NCS)**
+- **Level**: Revolutionary | **Status**: ✅ Completed
+- **Tech**: MERN Stack, TensorFlow.js, Blockchain, Edge AI, Federated Learning
+- **Features**: AI-Blockchain integration, edge processing, zero-trust architecture
+- **GitHub**: [View Project](https://github.com/webspoilt/next-gen-cyber-sentinel)
+- **Demo**: Revolutionary security platform
+
+</td>
+<td width="50%" valign="top">
+
+**🤖 Autonomous Threat Intelligence Platform (ATIRP)**
+- **Level**: Revolutionary | **Status**: ✅ Completed
+- **Tech**: MERN Stack, Cognitive AI, NLP, Graph Neural Networks, Blockchain
+- **Features**: Cognitive reasoning, predictive analysis, autonomous response
+- **GitHub**: [View Project](https://github.com/webspoilt/autonomous-threat-intelligence)
+- **Demo**: AI-native security platform
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🔐 Quantum-Safe Cybersecurity Platform**
+- **Level**: Revolutionary | **Status**: ✅ Completed
+- **Tech**: MERN Stack, Kyber KEM, Dilithium, SPHINCS+, QKD, Post-Quantum Blockchain
+- **Features**: NIST PQC standards, quantum key distribution, hybrid architecture
+- **GitHub**: [View Project](https://github.com/webspoilt/quantum-safe-cybersecurity)
+- **Demo**: Post-quantum security
+
+</td>
+<td width="50%" valign="top">
+
+**🔄 AI-Powered Digital Twin Security System**
+- **Level**: Revolutionary | **Status**: ✅ Completed
+- **Tech**: MERN Stack, 3D Visualization, AI Modeling, IoT Integration, React Three.js
+- **Features**: Real-time twins, behavioral modeling, virtual testing
+- **GitHub**: [View Project](https://github.com/webspoilt/digital-twin-security-system)
+- **Demo**: 3D security platform
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🥽 Metaverse Cybersecurity & Privacy Platform**
+- **Level**: Revolutionary | **Status**: ✅ Completed
+- **Tech**: MERN Stack, WebXR, Biometric Auth, Blockchain, NFT Security, VR/AR
+- **Features**: Virtual identity, immersive privacy, NFT verification
+- **GitHub**: [View Project](https://github.com/webspoilt/metaverse-cybersecurity-platform)
+- **Demo**: VR/AR security ecosystem
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🏆 Current Focus
 
-💻 **MERN Stack Development** - Building full-stack web applications with security integration  
-📊 **Data Structures & Algorithms** - Enhancing problem-solving skills for optimal performance  
-🔍 **Web Penetration Testing** - Finding vulnerabilities and improving security  
-🌐 **Blockchain Development** - Exploring decentralized technologies and smart contracts  
-📚 **Cybersecurity Learning** - Staying updated with latest security practices  
-⚡ **Bug Bounty Programs** - Actively participating in security research  
-🔗 **DeFi Security** - Understanding vulnerabilities in decentralized finance  
-🛡️ **Smart Contract Auditing** - Learning to identify security flaws in blockchain code
+💻 **Full-Stack Development** - Building scalable applications with React 18, Node.js, MongoDB  
+📊 **Data Science & AI** - Machine Learning, Predictive Analytics, AI Integration  
+🔍 **Advanced Cybersecurity** - Penetration Testing, Threat Detection, Security Architecture  
+🌐 **Blockchain & Web3** - Smart Contracts, DeFi Security, Decentralized Applications  
+🔬 **Emerging Technologies** - Quantum Computing, Edge AI, Digital Twins, Metaverse  
+📚 **Research & Innovation** - Creating next-generation integrated solutions  
+⚡ **Performance Optimization** - Using DSA concepts for efficient system design  
+🔗 **Enterprise Solutions** - Multi-tenant platforms, real-time analytics, microservices  
 
 ---
 
-## 💻 Current Projects
-
-🚀 **Active MERN Stack Development:**
-- 🔧 Building full-stack web applications with React frontend and Node.js backend
-- 📊 Implementing secure MongoDB databases with proper authentication and authorization
-- 🎨 Creating responsive and dynamic user interfaces with modern React patterns
-- ⚡ Developing RESTful APIs with Express.js and implementing security measures
-- 🧮 Integrating **Data Structures & Algorithms** for optimized performance and problem-solving
-
-🔬 **Project Focus Areas:**
-- **Web Application Security** - Implementing security best practices in MERN stack
-- **Performance Optimization** - Using DSA concepts for efficient data handling
-- **Full-Stack Development** - End-to-end application development and deployment
-- **Database Design** - Optimizing MongoDB schemas and queries
-- **API Development** - Creating secure and scalable backend services
-
-## 📚 Learning Journey
+## 📚 Learning Journey & Specializations
 
 **Currently Mastering:**
-- 🔐 Advanced **Web Application Penetration Testing** techniques
-- ⚡ **DeFi Smart Contract Security** and vulnerability research
-- 🛡️ **Blockchain Security Auditing** methodologies
-- 🔍 **Cryptographic Implementation** in distributed systems
+- 🔐 **Advanced Web Application Security** - OWASP Top 10, automated scanning
+- ⚡ **AI-Powered Security Solutions** - Cognitive AI, autonomous threat hunting
+- 🛡️ **Post-Quantum Cryptography** - NIST standards, quantum-safe protocols
+- 🔍 **Privacy-Preserving ML** - Federated learning, differential privacy
+- 🌐 **Web3 Security** - Smart contract auditing, DeFi vulnerabilities
 
-**Recent Interests:**
-- 🎯 **Bug Bounty Programs** (HackerOne, Bugcrowd, Synack)
-- 🌊 **DeFi Protocol Security** and flash loan attacks
-- 🔬 **Smart Contract Static Analysis** tools and techniques
-- 🏗️ **Web3 Security Best Practices** for DApp development
+**Research Areas:**
+- 🎯 **AI-Cybersecurity Integration** - Cognitive security systems
+- 🌊 **Real-time Fraud Detection** - Stream processing, ensemble methods
+- 🏗️ **Enterprise Security Architecture** - Zero-trust, SIEM, threat intelligence
+- 🔬 **Quantum-Safe Security** - Post-quantum cryptography implementation
 
-## 🏆 Notable Achievements
+---
 
-- 🎯 **Active Bug Hunter** - "I call bugs as features" - finding creative security solutions
-- 📈 **Learning Enthusiast** - Constantly expanding knowledge in cybersecurity and blockchain
-- 🔧 **Problem Solver** - Turning security challenges into learning opportunities
-- 🤝 **Collaboration Seeker** - Always open to learning from the community
+## 💼 Notable Achievements
+
+- 🎯 **20+ Premium Projects** across 4+ technology domains
+- 🔍 **Bug Hunter & Security Researcher** - "I call bugs as features"
+- 🏗️ **Enterprise Solution Architect** - Built multi-tenant SaaS platforms
+- 🤖 **AI Integration Specialist** - Implemented cognitive AI in security
+- 📊 **Data Science Practitioner** - ML models with production deployment
+- 🚀 **Innovation Driver** - Revolutionary integrated platforms
+- 🤝 **Open Source Contributor** - Active in security and development communities
+- 📈 **Portfolio Achievement** - Production-ready showcase of technical expertise
+
+---
 
 ## 🤝 Let's Collaborate
 
 I'm passionate about working on:
-- 🔍 **Web Application Security** assessments and vulnerability research
-- 🌐 **Blockchain Security** projects and smart contract auditing
-- 🛠️ **Open Source Security Tools** development and contribution
-- 📚 **Cybersecurity Research** papers and documentation
-- 🎯 **Bug Bounty** initiatives and responsible disclosure programs
-- 🔐 **DeFi Security** protocols and risk assessment tools
+
+### 🔐 **Cybersecurity Projects**
+- Web application penetration testing
+- Automated vulnerability scanning tools
+- SIEM and threat intelligence platforms
+- AI-powered security solutions
+- Quantum-safe cryptography implementation
+
+### 💻 **Full-Stack Development**
+- MERN/MEAN stack applications
+- Real-time communication platforms
+- E-commerce and SaaS solutions
+- Performance-optimized systems
+- Modern React applications with advanced features
+
+### 📊 **Data Science & AI**
+- Machine learning model development
+- Predictive analytics systems
+- Recommendation engines
+- Fraud detection algorithms
+- Natural language processing projects
+
+### 🚀 **Innovation & Research**
+- Blockchain security solutions
+- Metaverse platform development
+- Digital twin implementations
+- Edge computing applications
+- Cross-platform integration solutions
 
 **Current Project Ideas:**
-- Building a **Web3 Security Scanner** for smart contracts
-- Creating **DeFi Security Auditing** tools and frameworks
-- Developing **Web Application Testing** automation scripts
-- Contributing to **Open Source Security Projects**
+- 🛡️ **AI-Powered Security Scanner** for automated vulnerability assessment
+- 🔍 **Real-time Threat Intelligence Platform** with cognitive AI
+- 🌐 **Web3 Security Audit Framework** for DeFi protocols
+- 📊 **Predictive Analytics Dashboard** for business intelligence
+- 🚀 **Next-Gen SaaS Platform** with AI-powered features
 
-Feel free to reach out if you have any exciting cybersecurity or blockchain security projects!
+Feel free to reach out if you have exciting projects in cybersecurity, full-stack development, data science, or emerging technologies!
+
+---
+
+## 📊 Project Statistics
+
+<p align="center">
+  
+![Projects](https://img.shields.io/badge/Projects-20%2B-brightgreen?style=for-the-badge)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-5%20Projects-blue?style=for-the-badge)
+![MERN Stack](https://img.shields.io/badge/MERN%20Stack-5%20Projects-green?style=for-the-badge)
+![Data Science](https://img.shields.io/badge/Data%20Science-5%20Projects-orange?style=for-the-badge)
+![Revolutionary](https://img.shields.io/badge/Revolutionary-5%20Projects-purple?style=for-the-badge)
+
+</p>
+
+---
+
+## 📈 Featured Content
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🎯 **Portfolio Website**
+**🌟 [View Complete Portfolio](https://your-portfolio-website.netlify.app)**
+
+Showcasing all 20 projects with:
+- Beautiful responsive design
+- Project filtering by category
+- Live demo links
+- GitHub integration
+- Professional presentation
+
+</td>
+<td width="33%" valign="top">
+
+### 📚 **Technical Blog Posts**
+- "Building AI-Powered Security Systems"
+- "Implementing Zero-Trust Architecture"
+- "Quantum-Safe Cryptography Guide"
+- "Real-time Fraud Detection with ML"
+- "MERN Stack Best Practices"
+
+</td>
+<td width="33%" valign="top">
+
+### 🛠️ **Open Source Tools**
+- Network Intrusion Detection Framework
+- Vulnerability Scanner Automation
+- Smart Contract Security Analyzer
+- Real-time Analytics Dashboard
+- AI-Powered Content Generator
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🎯 2025 Goals & Vision
+
+- 🏆 **Establish Thought Leadership** in AI-Cybersecurity convergence
+- 🚀 **Launch Revolutionary Platforms** with cutting-edge technology integration
+- 📚 **Contribute to Open Source** security and development tools
+- 🤝 **Build Strategic Partnerships** with leading tech companies
+- 💡 **Innovate in Emerging Fields** - Quantum, Metaverse, Edge AI
+- 📈 **Scale Solutions** from prototypes to enterprise-grade platforms
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&width=85%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&width=90%" />
 </p>
 
-<p align="left">
-  <a href="https://instagram.com/zero.day._">Instagram</a> •
-  <a href="https://x.com/Gh0st_118">X/Twitter</a> •
-  <a href="mailto:heyzerodayhere@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/webspoilt/">LinkedIn</a>
+<p align="center">
+
+**🔗 Connect with me:**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/webspoilt)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=Todoist&logoColor=white)](https://your-portfolio-website.netlify.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:heyzerodayhere@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/Gh0st_118)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/zero.day._)
+
 </p>
+
+<p align="center">
+  <i>Building the future of technology, one secure solution at a time 🛡️🚀</i>
+</p>
+
+---
 
 <!---
 webspoilt/webspoilt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
