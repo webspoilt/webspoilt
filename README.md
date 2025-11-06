@@ -1,5 +1,3 @@
----
-
 # 👋 Hi, I'm Biswajeet Arukha
 
 **🚀 Full-Stack Developer | 🛡️ Cybersecurity Expert | 📊 Data Scientist | 🤖 AI Integration Specialist**
