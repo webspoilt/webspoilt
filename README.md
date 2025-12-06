@@ -27,21 +27,6 @@
 
 ---
 
-## My MERN Stack Projects
-
-<div align="center">
-
-| Project | Description | Link |
-|---------|-------------|------|
-| **CMS AI System** | AI-powered content management system | <a href="https://github.com/webspoilt/cms-ai-system"><img src="https://img.shields.io/badge/VIEW_PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/></a> |
-| **Realtime Chat App** | Refined real-time chat application | <a href="https://github.com/webspoilt/realtime-chat-app-refined"><img src="https://img.shields.io/badge/VIEW_PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/></a> |
-| **E-commerce Website** | Full-featured e-commerce platform | <a href="https://github.com/webspoilt/ecommerce-project"><img src="https://img.shields.io/badge/VIEW_PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/></a> |
-| **Crypto Portfolio Tracker** | Portfolio tracker with price alerts | <a href="https://github.com/webspoilt/Crypto-Portfolio-Tracker-with-Price-Alerts"><img src="https://img.shields.io/badge/VIEW_PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/></a> |
-
-</div>
-
----
-
 ## Table of Contents
 
 - [About The Project](#about-the-project)
@@ -573,9 +558,7 @@ curl -X POST http://localhost:3002/api/content \
   -H "Authorization: Bearer YOUR_JWT_TOKEN" \
   -d '{
     "title": "My First Article",
-    "content": "# Hello World
-
-This is my first article.",
+    "content": "# Hello World\n\nThis is my first article.",
     "type": "article",
     "status": "draft",
     "tags": ["tutorial", "beginner"]
