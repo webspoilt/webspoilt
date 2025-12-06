@@ -207,7 +207,7 @@ motto: "Building the future, one secure solution at a time"
 <td width="50%">
 <h3 align="center">🛒 E-commerce Platform</h3>
 <p align="center">
-  <a href="https://github.com/webspoilt/ecommerce-platform" target="_blank">
+  <a href="https://github.com/webspoilt/ecommerce-platform" target=">
     <img src="https://img.shields.io/badge/VIEW_PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
