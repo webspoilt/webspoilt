@@ -32,9 +32,9 @@
 ---
 
 <!-- About Me Section -->
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> About Me
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60"> About Me
 
-<img align="right" alt="Hacking" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="right" alt="Coding Cat" width="400" src="https://media.giphy.com/media/VbnUQpnihPuw/giphy.gif"/>
 
 ```yaml
 name: Biswajeet Arukha
@@ -68,7 +68,7 @@ motto: "Building the future, one secure solution at a time"
 ---
 
 <!-- Tech Stack Section -->
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40"> Tech Arsenal
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="60"> Tech Arsenal
 
 <div align="center">
 
@@ -123,7 +123,7 @@ motto: "Building the future, one secure solution at a time"
 ---
 
 <!-- Projects Section -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> Featured Projects
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="60"> Featured Projects
 
 <div align="center">
 
@@ -331,7 +331,7 @@ motto: "Building the future, one secure solution at a time"
 ---
 
 <!-- GitHub Stats Section -->
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ber/giphy.gif" width="40"> GitHub Analytics
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ber/giphy.gif" width="60"> GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=webspoilt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF"/>
@@ -349,7 +349,7 @@ motto: "Building the future, one secure solution at a time"
 ---
 
 <!-- Domains Section -->
-## <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="40"> Domains & Expertise
+## <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="60"> Domains & Expertise
 
 <div align="center">
 
@@ -374,7 +374,7 @@ motto: "Building the future, one secure solution at a time"
 ---
 
 <!-- Project Stats -->
-## <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="40"> Project Statistics
+## <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="60"> Project Statistics
 
 <div align="center">
 
@@ -389,7 +389,7 @@ motto: "Building the future, one secure solution at a time"
 ---
 
 <!-- Achievements Section -->
-## <img src="https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="40"> Achievements
+## <img src="https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="60"> Achievements
 
 <div align="center">
 
@@ -409,7 +409,7 @@ motto: "Building the future, one secure solution at a time"
 <!-- Quote Section -->
 <div align="center">
 
-### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Philosophy
+### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> Philosophy
 
 > *"Building the future of technology, one secure solution at a time."*
 
@@ -418,7 +418,7 @@ motto: "Building the future, one secure solution at a time"
 ---
 
 <!-- Connect Section -->
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Let's Connect & Collaborate!
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> Let's Connect & Collaborate!
 
 <div align="center">
 
