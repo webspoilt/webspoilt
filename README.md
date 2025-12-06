@@ -34,7 +34,7 @@
 <!-- About Me Section -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60"> About Me
 
-<img align="right" alt="Coding Cat" width="400" src="https://media.giphy.com/media/VbnUQpnihPuw/giphy.gif"/>
+<img align="right" alt="Coding Cat" width="400" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"/>
 
 ```yaml
 name: Biswajeet Arukha
