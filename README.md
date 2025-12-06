@@ -349,7 +349,7 @@ motto: "Building the future, one secure solution at a time"
 ---
 
 <!-- Domains Section -->
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="28"> Domains & Expertise
+## <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="28"> Domains & Expertise
 
 <div align="center">
 
@@ -374,7 +374,7 @@ motto: "Building the future, one secure solution at a time"
 ---
 
 <!-- Project Stats -->
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> Project Statistics
+## <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="28"> Project Statistics
 
 <div align="center">
 
@@ -389,7 +389,7 @@ motto: "Building the future, one secure solution at a time"
 ---
 
 <!-- Achievements Section -->
-## <img src="https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif" width="28"> Achievements
+## <img src="https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="28"> Achievements
 
 <div align="center">
 
