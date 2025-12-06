@@ -207,7 +207,7 @@ motto: "Building the future, one secure solution at a time"
 <td width="50%">
 <h3 align="center">🛒 E-commerce Platform</h3>
 <p align="center">
-  <a href="https://github.com/webspoilt/ecommerce-platform" target=">
+  <a href="https://github.com/webspoilt/ecommerce-project" target="_blank">
     <img src="https://img.shields.io/badge/VIEW_PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
@@ -219,7 +219,7 @@ motto: "Building the future, one secure solution at a time"
 <td width="50%">
 <h3 align="center">💬 Real-Time Chat App</h3>
 <p align="center">
-  <a href="https://github.com/webspoilt/realtime-chat-app" target="_blank">
+  <a href="https://github.com/webspoilt/realtime-chat-app-refined" target="_blank">
     <img src="https://img.shields.io/badge/VIEW_PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
@@ -233,7 +233,7 @@ motto: "Building the future, one secure solution at a time"
 <td width="50%">
 <h3 align="center">🤖 AI-Powered CMS</h3>
 <p align="center">
-  <a href="https://github.com/webspoilt/ai-powered-cms" target="_blank">
+  <a href="https://github.com/webspoilt/cms-ai-system" target="_blank">
     <img src="https://img.shields.io/badge/VIEW_PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
@@ -243,15 +243,15 @@ motto: "Building the future, one secure solution at a time"
 </p>
 </td>
 <td width="50%">
-<h3 align="center">🏢 Multi-Tenant SaaS</h3>
+<h3 align="center">📈 Crypto Portfolio Tracker</h3>
 <p align="center">
-  <a href="https://github.com/webspoilt/multi-tenant-saas-platform" target="_blank">
+  <a href="https://github.com/webspoilt/Crypto-Portfolio-Tracker-with-Price-Alerts" target="_blank">
     <img src="https://img.shields.io/badge/VIEW_PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
-<p align="center">Enterprise solution with tenant isolation</p>
+<p align="center">Track crypto assets with real-time price alerts</p>
 <p align="center">
-  <code>Next.js</code> • <code>Kafka</code> • <code>Stripe</code> • <code>Kubernetes</code>
+  <code>React.js</code> • <code>Node.js</code> • <code>WebSocket</code> • <code>CoinGecko API</code>
 </p>
 </td>
 </tr>
