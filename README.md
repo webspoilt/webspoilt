@@ -229,8 +229,8 @@ A modern programming language designed for AI, Embedded Systems, Quantum Computi
 <div align="center">
 
 <!-- GitHub Stats - Using alternative reliable service -->
-<img src="https://github-readme-stats.vercel.app/api?username=webspoilt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF006E&text_color=FFFFFF&include_all_commits=true&count_private=true" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=webspoilt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=10" height="180" />
+<img src="https://REPLACE_WITH_YOUR_VERCEL_URL/api?username=webspoilt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF006E&text_color=FFFFFF&include_all_commits=true&count_private=true" height="180" />
+<img src="https://REPLACE_WITH_YOUR_VERCEL_URL/api/top-langs/?username=webspoilt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=10" height="180" />
 
 <br/><br/>
 
