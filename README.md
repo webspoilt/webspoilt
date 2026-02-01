@@ -89,7 +89,6 @@ fun_fact: "I call bugs as features! 🐛➡️✨"
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 
 ### DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -219,14 +218,14 @@ Automated scraper that extracts startup-related data from Reddit for market rese
 
 <div align="center">
 
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=webspoilt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF006E&text_color=FFFFFF" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=webspoilt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" height="180" />
+<!-- GitHub Stats - Using alternative reliable service -->
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=webspoilt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF006E&text_color=FFFFFF&include_all_commits=true&count_private=true" height="180" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=webspoilt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=10" height="180" />
 
 <br/><br/>
 
 <!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=webspoilt&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=FF006E&fire=FF006E&currStreakLabel=00D9FF" width="70%" />
+<img src="https://streak-stats.demolab.com?user=webspoilt&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=FF006E&fire=FF006E&currStreakLabel=00D9FF&sideLabels=FFFFFF&currStreakNum=00D9FF&sideNums=FFFFFF&dates=FFFFFF" width="70%" />
 
 <br/><br/>
 
