@@ -1,327 +1,212 @@
 <div align="center">
 
 <!-- Animated Header -->
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=700&lines=Hey+there!+I'm+Biswajeet+Arukha+%F0%9F%91%8B;Full-Stack+Developer+%7C+Cybersecurity+Expert;Data+Scientist+%7C+AI+Integration+Specialist;Building+Revolutionary+Tech+Solutions+%F0%9F%9A%80)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:7B2D8E,100:FF006E&height=200&section=header&text=webspoilt&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20|%20Cybersecurity%20Expert%20|%20AI%20Enthusiast&descAlignY=55&descSize=18"/>
 
-<!-- Profile Banner -->
-<img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" alt="Header"/>
+<!-- Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Building+the+future%2C+one+secure+solution+at+a+time;Turning+bugs+into+features+%F0%9F%90%9B%E2%9E%A1%EF%B8%8F%E2%9C%A8;Code+%7C+Secure+%7C+Deploy+%7C+Repeat)](https://git.io/typing-svg)
 
-<!-- Badges -->
-<p>
-  <a href="https://linkedin.com/in/webspoilt">
-    <img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:heyzerodayhere@gmail.com">
-    <img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/webspoilt">
-    <img src="https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://x.com/Gh0st_118">
-    <img src="https://img.shields.io/badge/-TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/zero.day._">
-    <img src="https://img.shields.io/badge/-INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=webspoilt&style=for-the-badge&color=00D9FF" alt="Profile Views"/>
+<!-- Profile Views Counter -->
+![](https://komarev.com/ghpvc/?username=webspoilt&style=for-the-badge&color=00D9FF)
 
 </div>
 
 ---
 
-<!-- About Me Section -->
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60"> About Me
-
-<img align="right" alt="Coding Cat" width="400" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"/>
+## 🚀 About Me
 
 ```yaml
 name: Biswajeet Arukha
 alias: webspoilt
-located_in: India
-current_roles:
+location: Bhubaneswar, India
+role: 
   - Full-Stack Developer
-  - Cybersecurity Expert
-  - Data Scientist
+  - Cybersecurity Expert  
   - AI Integration Specialist
+  - Bug Bounty Hunter
 
-fields_of_expertise:
-  - MERN Stack Development
+expertise:
+  - MERN/MEAN Stack Development
   - Web Penetration Testing
   - Machine Learning & AI
   - Blockchain & Web3
   - Quantum Computing
 
-currently_working_on:
-  - AI-Powered Security Platforms
-  - Post-Quantum Cryptography
-  - Revolutionary Integrated Solutions
-
-fun_fact: "I call bugs as features! 🐛➡️✨"
-
+currently_learning: Web Penetration Testing
 motto: "Building the future, one secure solution at a time"
+fun_fact: "I call bugs as features! 🐛➡️✨"
 ```
 
-<br clear="right"/>
+<!-- Social Links -->
+<div align="center">
+
+[![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/Biswajeetarukha)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Gh0st_118)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zero.day._/)
+[![Bugcrowd](https://img.shields.io/badge/Bugcrowd-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white)](https://bugcrowd.com/webspoilt)
+
+</div>
 
 ---
 
-<!-- Tech Stack Section -->
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="60"> Tech Arsenal
+## 💻 Tech Arsenal
 
 <div align="center">
 
 ### Languages & Core
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,solidity,html,css" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
 ### Frontend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux" />
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
-</p>
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
 
 ### Backend & Database
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis" />
-</p>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### AI & Data Science
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-</p>
+### AI & Machine Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
-### Security & Hacking Tools
-<p>
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
-</p>
+### Cybersecurity
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 
-### Cloud & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,linux" />
-</p>
+### DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ### Blockchain & Web3
-<p>
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Smart_Contracts-363636?style=for-the-badge&logo=ethereum&logoColor=white"/>
-</p>
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
 
 </div>
 
 ---
 
-<!-- Projects Section -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="60"> Featured Projects
+## 🌟 Featured Projects
 
 <div align="center">
 
-### Cybersecurity Projects
-
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">🔍 Network Intrusion Detection</h3>
-<p align="center">
-  <a href="https://github.com/webspoilt/network-intrusion-detection" target="_blank">
-    <img src="https://img.shields.io/badge/VIEW_PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-<p align="center">Real-time packet analysis with ML anomaly detection</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Level-Intermediate-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square"/>
-</p>
-<p align="center">
-  <code>Python</code> • <code>Scapy</code> • <code>Scikit-learn</code> • <code>Wireshark</code>
-</p>
-</td>
-<td width="50%">
-<h3 align="center">🔐 Secure Password Manager</h3>
-<p align="center">
-  <a href="https://github.com/webspoilt/secure-password-manager" target="_blank">
-    <img src="https://img.shields.io/badge/VIEW_PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-<p align="center">Cross-platform AES-256 encrypted password vault</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Level-Intermediate-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square"/>
-</p>
-<p align="center">
-  <code>Python</code> • <code>AES-256</code> • <code>Argon2</code> • <code>2FA</code>
-</p>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<h3 align="center">🤖 AI Threat Hunting Platform</h3>
-<p align="center">
-  <a href="https://github.com/webspoilt/ai-threat-hunting-platform" target="_blank">
-    <img src="https://img.shields.io/badge/VIEW_PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-<p align="center">Autonomous threat detection with cognitive AI</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Level-Advanced-purple?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square"/>
-</p>
-<p align="center">
-  <code>TensorFlow</code> • <code>PyTorch</code> • <code>GNN</code> • <code>Blockchain</code>
-</p>
-</td>
-<td width="50%">
-<h3 align="center">📊 SIEM Dashboard System</h3>
-<p align="center">
-  <a href="https://github.com/webspoilt/siem-dashboard-system" target="_blank">
-    <img src="https://img.shields.io/badge/VIEW_PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-<p align="center">Enterprise-grade log analysis & threat detection</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Level-Advanced-purple?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square"/>
-</p>
-<p align="center">
-  <code>Kafka</code> • <code>Elasticsearch</code> • <code>TensorFlow</code> • <code>AWS</code>
-</p>
-</td>
-</tr>
-</table>
 
-### MERN Stack Projects
+### 🔐 [VAULT](https://github.com/webspoilt/vault)
+**Secure Messaging for Mission-Critical Operations (B2G)**
 
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">🛒 E-commerce Platform</h3>
-<p align="center">
-  <a href="https://github.com/webspoilt/ecommerce-project" target="_blank">
-    <img src="https://img.shields.io/badge/VIEW_PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-<p align="center">Full-featured online shopping experience</p>
-<p align="center">
-  <code>React.js</code> • <code>Node.js</code> • <code>MongoDB</code> • <code>Stripe</code>
-</p>
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)]()
+[![Security](https://img.shields.io/badge/Security-Enterprise-FF006E?style=flat-square)]()
+
+Enterprise-grade secure messaging platform designed for government and business-critical communications with end-to-end encryption.
+
 </td>
 <td width="50%">
-<h3 align="center">💬 Real-Time Chat App</h3>
-<p align="center">
-  <a href="https://github.com/webspoilt/realtime-chat-app-refined" target="_blank">
-    <img src="https://img.shields.io/badge/VIEW_PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-<p align="center">Live messaging with presence indicators</p>
-<p align="center">
-  <code>React.js</code> • <code>Socket.IO</code> • <code>Node.js</code> • <code>JWT</code>
-</p>
+
+### 🤖 [Code Janitor](https://github.com/webspoilt/code-janitor)
+**AI-Powered Code Refactoring Tool**
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)]()
+[![AI](https://img.shields.io/badge/AI-Enabled-00D9FF?style=flat-square)]()
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C853?style=flat-square)](https://code-janitor-sigma.vercel.app)
+
+Automated code refactoring combining static analysis with LLM capabilities. Detects code smells, security vulnerabilities, and performance issues.
+
 </td>
 </tr>
 <tr>
 <td width="50%">
-<h3 align="center">🤖 AI-Powered CMS</h3>
-<p align="center">
-  <a href="https://github.com/webspoilt/cms-ai-system" target="_blank">
-    <img src="https://img.shields.io/badge/VIEW_PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-<p align="center">Content generation with OpenAI integration</p>
-<p align="center">
-  <code>Next.js</code> • <code>OpenAI</code> • <code>Docker</code> • <code>Redis</code>
-</p>
-</td>
-<td width="50%">
-<h3 align="center">📈 Crypto Portfolio Tracker</h3>
-<p align="center">
-  <a href="https://github.com/webspoilt/Crypto-Portfolio-Tracker-with-Price-Alerts" target="_blank">
-    <img src="https://img.shields.io/badge/VIEW_PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-<p align="center">Track crypto assets with real-time price alerts</p>
-<p align="center">
-  <code>React.js</code> • <code>Node.js</code> • <code>WebSocket</code> • <code>CoinGecko API</code>
-</p>
-</td>
-</tr>
-</table>
 
-### Revolutionary Projects
+### 🎯 [VulnForge Academy](https://github.com/webspoilt/vulnforge-academy)
+**Cybersecurity Training Platform**
 
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">🛡️ Next-Gen Cyber Sentinel</h3>
-<p align="center">
-  <a href="https://github.com/webspoilt/next-gen-cyber-sentinel" target="_blank">
-    <img src="https://img.shields.io/badge/VIEW_PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-<p align="center">AI-Blockchain security with zero-trust architecture</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Level-Revolutionary-FF6B6B?style=flat-square"/>
-</p>
-<p align="center">
-  <code>MERN</code> • <code>TensorFlow.js</code> • <code>Blockchain</code> • <code>Edge AI</code>
-</p>
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)]()
+[![Security](https://img.shields.io/badge/OWASP_Top_10-Covered-FF006E?style=flat-square)]()
+
+Deliberately vulnerable web application with 20 levels (Beginner→Nightmare) covering SQLi, XSS, IDOR, SSRF, RCE & more. CTF-style flags with progress tracking.
+
 </td>
 <td width="50%">
-<h3 align="center">🔐 Quantum-Safe Platform</h3>
-<p align="center">
-  <a href="https://github.com/webspoilt/quantum-safe-cybersecurity" target="_blank">
-    <img src="https://img.shields.io/badge/VIEW_PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-<p align="center">Post-quantum cryptography with NIST standards</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Level-Revolutionary-FF6B6B?style=flat-square"/>
-</p>
-<p align="center">
-  <code>Kyber</code> • <code>Dilithium</code> • <code>SPHINCS+</code> • <code>QKD</code>
-</p>
+
+### 🚀 [IndoGap](https://github.com/webspoilt/Indogap)
+**AI-Powered Opportunity Discovery Engine**
+
+[![Python](https://img.shields.io/badge/Python-57.0%25-3776AB?style=flat-square)]()
+[![TypeScript](https://img.shields.io/badge/TypeScript-28.5%25-3178C6?style=flat-square)]()
+
+AI-driven platform that discovers startup opportunities, analyzes market gaps, and connects entrepreneurs with funding sources.
+
 </td>
 </tr>
 <tr>
 <td width="50%">
-<h3 align="center">🔄 Digital Twin Security</h3>
-<p align="center">
-  <a href="https://github.com/webspoilt/digital-twin-security-system" target="_blank">
-    <img src="https://img.shields.io/badge/VIEW_PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-<p align="center">3D visualization with real-time twins</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Level-Revolutionary-FF6B6B?style=flat-square"/>
-</p>
-<p align="center">
-  <code>React Three.js</code> • <code>IoT</code> • <code>AI Modeling</code>
-</p>
+
+### 💬 [Random Chat](https://github.com/webspoilt/Random_Chat)
+**Real-Time Anonymous Chat Platform**
+
+[![TypeScript](https://img.shields.io/badge/TypeScript-97.5%25-3178C6?style=flat-square)]()
+[![Next.js](https://img.shields.io/badge/Next.js-15-000000?style=flat-square)]()
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C853?style=flat-square)](https://random-chat-wheat.vercel.app)
+
+Modern anonymous chat application with real-time messaging, built with Next.js 15, TypeScript, and WebSocket technology.
+
 </td>
 <td width="50%">
-<h3 align="center">🥽 Metaverse Security</h3>
-<p align="center">
-  <a href="https://github.com/webspoilt/metaverse-cybersecurity-platform" target="_blank">
-    <img src="https://img.shields.io/badge/VIEW_PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-<p align="center">VR/AR security with NFT verification</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Level-Revolutionary-FF6B6B?style=flat-square"/>
-</p>
-<p align="center">
-  <code>WebXR</code> • <code>Biometric</code> • <code>Blockchain</code> • <code>NFT</code>
-</p>
+
+### 🎮 [Hell's Gauntlet](https://github.com/webspoilt/hell-gauntlet-impossible-ascent)
+**Impossible Platformer Game**
+
+[![JavaScript](https://img.shields.io/badge/JavaScript-63.5%25-F7DF1E?style=flat-square)]()
+[![PWA](https://img.shields.io/badge/PWA-Ready-5A0FC8?style=flat-square)]()
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C853?style=flat-square)](https://zerodayhell-gauntlet.vercel.app)
+
+Brutally difficult Level Devil-inspired platformer with PWA support, save system, and monetization ready. 39+ commits of pure gaming rage! 😈
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🌐 [NexusLang](https://github.com/webspoilt/nexuslang)
+**Universal Programming Language**
+
+[![Python](https://img.shields.io/badge/Python-96.9%25-3776AB?style=flat-square)]()
+[![MIT License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)]()
+
+A modern programming language designed for AI, Embedded Systems, Quantum Computing, and Web Development with <50ms startup time.
+
+</td>
+<td width="50%">
+
+### 🔍 [Reddit Startup Scraper](https://github.com/webspoilt/reddit_startup_scraper)
+**Startup Intelligence Tool**
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)]()
+
+Automated scraper that extracts startup-related data from Reddit for market research and competitive analysis.
+
 </td>
 </tr>
 </table>
@@ -330,135 +215,103 @@ motto: "Building the future, one secure solution at a time"
 
 ---
 
-<!-- GitHub Stats Section -->
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ber/giphy.gif" width="60"> GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=webspoilt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webspoilt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=webspoilt&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="Streak Stats"/>
-</div>
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=webspoilt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF006E&text_color=FFFFFF" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=webspoilt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" height="180" />
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=webspoilt&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" width="100%"/>
+<br/><br/>
+
+<!-- Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=webspoilt&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=FF006E&fire=FF006E&currStreakLabel=00D9FF" width="70%" />
+
+<br/><br/>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=webspoilt&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=FF006E&point=FFFFFF" width="95%" />
+
 </div>
 
 ---
 
-<!-- Domains Section -->
-## <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="60"> Domains & Expertise
+## 🏆 Domains & Expertise
 
 <div align="center">
 
 ```
-┌───────────────────────────────────────────────────────────────────────────────┐
-│                                                                               │
-│   🛡️ CYBERSECURITY       💻 FULL-STACK          📊 DATA SCIENCE              │
-│   Penetration Testing    MERN/MEAN Stack        Machine Learning              │
-│   Threat Intelligence    Real-time Apps         Predictive Analytics          │
-│   Security Architecture  SaaS Platforms         Fraud Detection               │
-│                                                                               │
-│   🔗 BLOCKCHAIN          🤖 AI/ML               🔬 EMERGING TECH              │
-│   Smart Contracts        Deep Learning          Quantum Computing             │
-│   DeFi Security          NLP & Computer Vision  Edge AI & IoT                 │
-│   Web3 Development       AI Integration         Metaverse & VR/AR             │
-│                                                                               │
-└───────────────────────────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                                                                             │
+│   🛡️ CYBERSECURITY       💻 FULL-STACK          🤖 AI/ML                   │
+│   ├─ Penetration Testing  ├─ MERN/MEAN Stack    ├─ Deep Learning           │
+│   ├─ Threat Intelligence  ├─ Real-time Apps     ├─ NLP & Computer Vision   │
+│   ├─ Security Auditing    ├─ SaaS Platforms     ├─ Predictive Analytics    │
+│   └─ Bug Bounty Hunting   └─ PWA Development    └─ AI Integration          │
+│                                                                             │
+│   🔗 BLOCKCHAIN          📊 DATA SCIENCE        🔬 EMERGING TECH            │
+│   ├─ Smart Contracts      ├─ Machine Learning   ├─ Quantum Computing       │
+│   ├─ DeFi Security        ├─ Data Visualization ├─ Edge AI & IoT           │
+│   ├─ Web3 Development     ├─ Fraud Detection    ├─ Metaverse & VR/AR        │
+│   └─ NFT Platforms        └─ Big Data Analytics └─ Post-Quantum Crypto     │
+│                                                                             │
+└─────────────────────────────────────────────────────────────────────────────┘
 ```
 
 </div>
 
 ---
 
-<!-- Project Stats -->
-## <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="60"> Project Statistics
+## 🎯 Current Focus
 
 <div align="center">
 
-![Projects](https://img.shields.io/badge/Total_Projects-20+-00D9FF?style=for-the-badge)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-5-FF6B6B?style=for-the-badge)
-![MERN Stack](https://img.shields.io/badge/MERN_Stack-5-4CAF50?style=for-the-badge)
-![Data Science](https://img.shields.io/badge/Data_Science-5-FF9800?style=for-the-badge)
-![Revolutionary](https://img.shields.io/badge/Revolutionary-5-9C27B0?style=for-the-badge)
+| Area | Status | Progress |
+|------|--------|----------|
+| 🔐 Web Penetration Testing | 🟡 Learning | `████████░░` 80% |
+| 🤖 AI-Powered Security Platforms | 🟢 Active | `██████████` 100% |
+| 🔑 Post-Quantum Cryptography | 🟡 Research | `██████░░░░` 60% |
+| 🌐 Revolutionary Integrated Solutions | 🟢 Building | `█████████░` 90% |
 
 </div>
 
 ---
 
-<!-- Achievements Section -->
-## <img src="https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="60"> Achievements
+## 💡 Random Dev Quote
 
 <div align="center">
 
-| | |
-|:---:|:---|
-| 🐛 | **Bug Hunter & Security Researcher** - "I call bugs as features!" |
-| 🏗️ | **Enterprise Solution Architect** - Built multi-tenant SaaS platforms |
-| 🤖 | **AI Integration Specialist** - Cognitive AI in security systems |
-| 🔐 | **Quantum Security Pioneer** - Post-quantum cryptography implementation |
-| 🚀 | **Innovation Driver** - Revolutionary integrated platforms |
-| 🤝 | **Open Source Contributor** - Active in security communities |
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code.&author=John%20Johnson)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
 ---
 
-<!-- Quote Section -->
-<div align="center">
-
-### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> Philosophy
-
-> *"Building the future of technology, one secure solution at a time."*
-
-</div>
-
----
-
-<!-- Connect Section -->
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> Let's Connect & Collaborate!
+## 🤝 Let's Connect
 
 <div align="center">
 
-<p>I'm passionate about cybersecurity, full-stack development, and emerging technologies!</p>
+**Open for collaborations on:**
+- 🔒 Cybersecurity Projects
+- 🤖 AI/ML Applications  
+- 🌐 Full-Stack Development
+- 🐛 Bug Bounty Hunting
+- 🔗 Blockchain/Web3 Solutions
 
-<a href="https://linkedin.com/in/webspoilt">
-  <img src="https://img.shields.io/badge/Let's_connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+📧 **Reach out via:** [Linktree](https://linktr.ee/Biswajeetarukha) | [Twitter](https://twitter.com/Gh0st_118) | [Bugcrowd](https://bugcrowd.com/webspoilt)
 
-<a href="mailto:heyzerodayhere@gmail.com">
-  <img src="https://img.shields.io/badge/Send_me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://your-portfolio-website.netlify.app">
-  <img src="https://img.shields.io/badge/View_My_Portfolio-00D9FF?style=for-the-badge&logo=firefox&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/🚀_Open_to_Exciting_Opportunities-00D9FF?style=for-the-badge"/>
-
-</div>
-
----
-
-<!-- Snake Animation -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  </picture>
 </div>
 
 ---
 
 <div align="center">
 
-### Thanks for visiting! ⭐ Star my repos if you find them useful!
+<!-- Footer Animation -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF006E,50:7B2D8E,100:00D9FF&height=120&section=footer"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=100&section=footer"/>
+**⭐ Star my repositories if you find them interesting! ⭐**
+
+*"The only way to do great work is to love what you do." - Steve Jobs*
 
 </div>
