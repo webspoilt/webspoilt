@@ -37,7 +37,6 @@ currently_exploring:
   - Distributed P2P Systems
 
 motto: "Simplify the complex. Secure the simple."
-fun_fact: "I once spent 48 hours debugging a kernel panic only to find a missing semicolon in a macro. I didn't sleep, but I did achieve enlightenment."
 ```
 
 <!-- Social Links -->
@@ -56,7 +55,7 @@ fun_fact: "I once spent 48 hours debugging a kernel panic only to find a missing
 
 <div align="center">
 
-### 🛠️ Languages & Systems
+### 🛠️ Core & Systems
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -176,26 +175,6 @@ Deliberately vulnerable environment for mastering OWASP Top 10 exploits.
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
-
----
-
-## 🔥 The Roast
-> *Because self-awareness is the best debugger.*
-
-1. **"I'm everything and the kitchen sink" syndrome**
-Your expertise list reads like a LinkedIn profile after 5 Red Bulls: OS Development, MERN/MEAN, Web Penetration Testing, Machine Learning & AI, Blockchain & Web3, Quantum Computing. Nobody believes you're equally skilled at kernel memory management AND Solidity smart contracts.
-
-2. **Your GitHub Analytics were literally broken**
-You left the placeholder URL in your README. This is the equivalent of going to a job interview with a suit that still has the price tag on it. (Fixed now, you're welcome).
-
-3. **The badge wall was a sensory assault**
-40+ tech badges back-to-back? It looked like a tech sticker bomb on a laptop from 2019.
-
-4. **Fake progress bars...**
-90% on an OS kernel? What does that even measure? Lines of code? Ambition? It's noise.
-
-5. **Marketing Fluff**
-"Revolutionary modular OS kernel that adapts from IoT to supercomputers" — Linus Torvalds called, he wants his ambitions back.
 
 ---
 
