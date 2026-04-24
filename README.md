@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:7B2D8E,100:FF006E&height=200&section=header&text=webspoilt&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20|%20Cybersecurity%20Expert%20|%20OS%20Developer&descAlignY=55&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:7B2D8E,100:FF006E&height=200&section=header&text=webspoilt&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Development%20|%20Cybersecurity%20|%20Kernel%20Research&descAlignY=55&descSize=18"/>
 
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Building+the+future%2C+one+secure+solution+at+a+time;Kernel+%7C+Web+%7C+AI+%7C+Security;Code+%7C+Secure+%7C+Deploy+%7C+Repeat)](https://git.io/typing-svg)
@@ -21,22 +21,23 @@ alias: webspoilt
 location: Bhubaneswar, India
 role: 
   - Full-Stack Developer
-  - Cybersecurity Expert  
-  - AI Integration Specialist
-  - OS Developer (UltraOS)
+  - Security Researcher
+  - Kernel Enthusiast (UltraOS)
+  - AI Integration
   - Bug Bounty Hunter
 
-expertise:
-  - Operating System Development
-  - MERN/MEAN Stack Development
-  - Web Penetration Testing
-  - Machine Learning & AI
-  - Blockchain & Web3
-  - Quantum Computing
+technical_focus:
+  - OS Design & Kernel Memory Management
+  - Scalable Web Architectures (MERN/Next.js)
+  - Offensive Security (OWASP, CTF)
+  - Distributed AI Orchestration
 
-currently_learning: Web Penetration Testing
-motto: "Building the future, one secure solution at a time"
-fun_fact: "I call bugs as features! 🐛➡️✨"
+currently_exploring: 
+  - Post-Quantum Cryptography
+  - Distributed P2P Systems
+
+motto: "Simplify the complex. Secure the simple."
+fun_fact: "I once spent 48 hours debugging a kernel panic only to find a missing semicolon in a macro. I didn't sleep, but I did achieve enlightenment."
 ```
 
 <!-- Social Links -->
@@ -51,63 +52,31 @@ fun_fact: "I call bugs as features! 🐛➡️✨"
 
 ---
 
-## 💻 Tech Arsenal
+## 💻 Technical Stack
 
 <div align="center">
 
-### Languages & Core
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+### 🛠️ Languages & Systems
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
-### OS & Systems Development
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Kernel](https://img.shields.io/badge/Kernel-Development-FF006E?style=for-the-badge)
-![x86_64](https://img.shields.io/badge/x86__64-Architecture-00D9FF?style=for-the-badge)
-![ARM64](https://img.shields.io/badge/ARM64-Architecture-00D9FF?style=for-the-badge)
+### 🌐 Web & Backend
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-### Frontend Development
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
-
-### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### AI & Machine Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-
-### Cybersecurity
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
-
-### DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
-### Blockchain & Web3
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
+### 🛡️ Security & Ops
+![Kali](https://img.shields.io/badge/Kali-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 </div>
 
@@ -122,24 +91,21 @@ fun_fact: "I call bugs as features! 🐛➡️✨"
 <td width="50%">
 
 ### 🖥️ [UltraOS](https://github.com/webspoilt/ultraos)
-**Next-Generation Operating System Kernel**
+**Modular OS Kernel Architecture**
 
-[![C](https://img.shields.io/badge/C-90.5%25-A8B9CC?style=flat-square&logo=c&logoColor=black)]()
-[![Makefile](https://img.shields.io/badge/Makefile-5.3%25-427819?style=flat-square)]()
-[![MIT License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)]()
-
-Revolutionary modular OS kernel that adapts from IoT (128MB) to supercomputers (1TB+). Features Hardware Abstraction Layer, progressive enhancement, and native AI/ML integration. Supports x86_64, ARM64, RISC-V.
+A modular research kernel exploring hardware abstraction and process isolation.
+- **Languages**: C, Assembly
+- **Architecture**: x86_64, ARM64
 
 </td>
 <td width="50%">
 
-### 🔐 [VAULT](https://github.com/webspoilt/vault)
-**Secure Messaging for Mission-Critical Operations (B2G)**
+### 🛡️ [OmniClaw](https://github.com/webspoilt/omniclaw)
+**Sovereign Sentinel AI Security**
 
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)]()
-[![Security](https://img.shields.io/badge/Security-Enterprise-FF006E?style=flat-square)]()
-
-Enterprise-grade secure messaging platform designed for government and business-critical communications with end-to-end encryption.
+Autonomous security orchestration platform with eBPF monitoring and behavioral risk analysis.
+- **Languages**: Python, Rust, TS
+- **Stack**: FastAPI, Tauri, eBPF
 
 </td>
 </tr>
@@ -147,74 +113,21 @@ Enterprise-grade secure messaging platform designed for government and business-
 <td width="50%">
 
 ### 🤖 [Code Janitor](https://github.com/webspoilt/code-janitor)
-**AI-Powered Code Refactoring Tool**
+**AI-Powered Refactoring**
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)]()
-[![AI](https://img.shields.io/badge/AI-Enabled-00D9FF?style=flat-square)]()
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C853?style=flat-square)](https://code-janitor-sigma.vercel.app)
-
-Automated code refactoring combining static analysis with LLM capabilities. Detects code smells, security vulnerabilities, and performance issues.
+Combining static analysis with LLM capabilities to automate code cleaning.
+- **Status**: Production Ready
+- **Live**: [Demo](https://code-janitor-sigma.vercel.app)
 
 </td>
 <td width="50%">
 
-### 🎯 [VulnForge Academy](https://github.com/webspoilt/vulnforge-academy)
-**Cybersecurity Training Platform**
+### 🔐 [VulnForge Academy](https://github.com/webspoilt/vulnforge-academy)
+**Security Training Ground**
 
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)]()
-[![Security](https://img.shields.io/badge/OWASP_Top_10-Covered-FF006E?style=flat-square)]()
-
-Deliberately vulnerable web application with 20 levels (Beginner→Nightmare) covering SQLi, XSS, IDOR, SSRF, RCE & more. CTF-style flags with progress tracking.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🚀 [IndoGap](https://github.com/webspoilt/Indogap)
-**AI-Powered Opportunity Discovery Engine**
-
-[![Python](https://img.shields.io/badge/Python-57.0%25-3776AB?style=flat-square)]()
-[![TypeScript](https://img.shields.io/badge/TypeScript-28.5%25-3178C6?style=flat-square)]()
-
-AI-driven platform that discovers startup opportunities, analyzes market gaps, and connects entrepreneurs with funding sources.
-
-</td>
-<td width="50%">
-
-### 💬 [Random Chat](https://github.com/webspoilt/Random_Chat)
-**Real-Time Anonymous Chat Platform**
-
-[![TypeScript](https://img.shields.io/badge/TypeScript-97.5%25-3178C6?style=flat-square)]()
-[![Next.js](https://img.shields.io/badge/Next.js-15-000000?style=flat-square)]()
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C853?style=flat-square)](https://random-chat-wheat.vercel.app)
-
-Modern anonymous chat application with real-time messaging, built with Next.js 15, TypeScript, and WebSocket technology.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🎮 [Hell's Gauntlet](https://github.com/webspoilt/hell-gauntlet-impossible-ascent)
-**Impossible Platformer Game**
-
-[![JavaScript](https://img.shields.io/badge/JavaScript-63.5%25-F7DF1E?style=flat-square)]()
-[![PWA](https://img.shields.io/badge/PWA-Ready-5A0FC8?style=flat-square)]()
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C853?style=flat-square)](https://zerodayhell-gauntlet.vercel.app)
-
-Brutally difficult Level Devil-inspired platformer with PWA support, save system, and monetization ready. 39+ commits of pure gaming rage! 😈
-
-</td>
-<td width="50%">
-
-### 🌐 [NexusLang](https://github.com/webspoilt/nexuslang)
-**Universal Programming Language**
-
-[![Python](https://img.shields.io/badge/Python-96.9%25-3776AB?style=flat-square)]()
-[![MIT License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)]()
-
-A modern programming language designed for AI, Embedded Systems, Quantum Computing, and Web Development with <50ms startup time.
+Deliberately vulnerable environment for mastering OWASP Top 10 exploits.
+- **Levels**: 20 (CTF-Style)
+- **Focus**: Web Penetration Testing
 
 </td>
 </tr>
@@ -224,76 +137,65 @@ A modern programming language designed for AI, Embedded Systems, Quantum Computi
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Intelligence
 
 <div align="center">
 
-<!-- GitHub Stats - Using alternative reliable service -->
-<img src="https://REPLACE_WITH_YOUR_VERCEL_URL/api?username=webspoilt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF006E&text_color=FFFFFF&include_all_commits=true&count_private=true" height="180" />
-<img src="https://REPLACE_WITH_YOUR_VERCEL_URL/api/top-langs/?username=webspoilt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=10" height="180" />
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=webspoilt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF006E&text_color=FFFFFF&include_all_commits=true&count_private=true" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=webspoilt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=10" height="180" />
 
 <br/><br/>
 
 <!-- Streak Stats -->
 <img src="https://streak-stats.demolab.com?user=webspoilt&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=FF006E&fire=FF006E&currStreakLabel=00D9FF&sideLabels=FFFFFF&currStreakNum=00D9FF&sideNums=FFFFFF&dates=FFFFFF" width="70%" />
 
-<br/><br/>
+</div>
 
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=webspoilt&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=FF006E&point=FFFFFF" width="95%" />
+---
+
+## 📅 Roadmap & Active Research
+
+<div align="center">
+
+| Objective | Focus | Status |
+| :--- | :--- | :--- |
+| **UltraOS** | Multitasking & VFS | 🚧 Implementation |
+| **OmniClaw** | P2P Knowledge Sync | 🧪 Alpha Testing |
+| **Quantum Hub** | Post-Quantum Cryptography | 📚 Researching |
+| **VulnForge** | New "Cloud Security" Track | 📅 Scheduled |
 
 </div>
 
 ---
 
-## 🏆 Domains & Expertise
+## 💡 Dev Insight
 
 <div align="center">
 
-```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                                                                             │
-│   🖥️ OS DEVELOPMENT        💻 FULL-STACK          🤖 AI/ML                   │
-│   ├─ Kernel Development     ├─ MERN/MEAN Stack    ├─ Deep Learning           │
-│   ├─ Hardware Abstraction   ├─ Real-time Apps     ├─ NLP & Computer Vision   │
-│   ├─ Memory Management      ├─ SaaS Platforms     ├─ Predictive Analytics    │
-│   └─ Device Drivers         └─ PWA Development    └─ AI Integration          │
-│                                                                             │
-│   🛡️ CYBERSECURITY         🔗 BLOCKCHAIN          🔬 EMERGING TECH            │
-│   ├─ Penetration Testing    ├─ Smart Contracts    ├─ Quantum Computing       │
-│   ├─ Threat Intelligence    ├─ DeFi Security      ├─ Edge AI & IoT           │
-│   ├─ Security Auditing      ├─ Web3 Development   ├─ Metaverse & VR/AR        │
-│   └─ Bug Bounty Hunting     └─ NFT Platforms      └─ Post-Quantum Crypto     │
-│                                                                             │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
 ---
 
-## 🎯 Current Focus
+## 🔥 The Roast
+> *Because self-awareness is the best debugger.*
 
-<div align="center">
+1. **"I'm everything and the kitchen sink" syndrome**
+Your expertise list reads like a LinkedIn profile after 5 Red Bulls: OS Development, MERN/MEAN, Web Penetration Testing, Machine Learning & AI, Blockchain & Web3, Quantum Computing. Nobody believes you're equally skilled at kernel memory management AND Solidity smart contracts.
 
-| Area | Status | Progress |
-|------|--------|----------|
-| 🖥️ UltraOS Kernel Development | 🟢 Active | `█████████░` 90% |
-| 🔐 Web Penetration Testing | 🟡 Learning | `████████░░` 80% |
-| 🤖 AI-Powered Security Platforms | 🟢 Active | `██████████` 100% |
-| 🔑 Post-Quantum Cryptography | 🟡 Research | `██████░░░░` 60% |
+2. **Your GitHub Analytics were literally broken**
+You left the placeholder URL in your README. This is the equivalent of going to a job interview with a suit that still has the price tag on it. (Fixed now, you're welcome).
 
-</div>
+3. **The badge wall was a sensory assault**
+40+ tech badges back-to-back? It looked like a tech sticker bomb on a laptop from 2019.
 
----
+4. **Fake progress bars...**
+90% on an OS kernel? What does that even measure? Lines of code? Ambition? It's noise.
 
-## 💡 Random Dev Quote
-
-<div align="center">
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code.&author=John%20Johnson)](https://github.com/piyushsuthar/github-readme-quotes)
-
-</div>
+5. **Marketing Fluff**
+"Revolutionary modular OS kernel that adapts from IoT to supercomputers" — Linus Torvalds called, he wants his ambitions back.
 
 ---
 
@@ -302,12 +204,9 @@ A modern programming language designed for AI, Embedded Systems, Quantum Computi
 <div align="center">
 
 **Open for collaborations on:**
-- 🖥️ Operating System Development
-- 🔒 Cybersecurity Projects
-- 🤖 AI/ML Applications  
-- 🌐 Full-Stack Development
-- 🐛 Bug Bounty Hunting
-- 🔗 Blockchain/Web3 Solutions
+- 🖥️ Kernel & Low-Level Development
+- 🔒 Cybersecurity Research & CTFs
+- 🤖 Distributed AI Systems
 
 📧 **Reach out via:** [Linktree](https://linktr.ee/Biswajeetarukha) | [Twitter](https://twitter.com/Gh0st_118) | [Bugcrowd](https://bugcrowd.com/webspoilt)
 
@@ -320,8 +219,8 @@ A modern programming language designed for AI, Embedded Systems, Quantum Computi
 <!-- Footer Animation -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF006E,50:7B2D8E,100:00D9FF&height=120&section=footer"/>
 
-**⭐ Star my repositories if you find them interesting! ⭐**
+**⭐ Star my repositories if they catch your eye! ⭐**
 
-*"The only way to do great work is to love what you do." - Steve Jobs*
+*"Stay hungry. Stay foolish. But mostly, stay secure."*
 
 </div>
