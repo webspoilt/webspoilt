@@ -1,205 +1,85 @@
-<div align="center">
-
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:7B2D8E,100:FF006E&height=200&section=header&text=webspoilt&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Development%20|%20Cybersecurity%20|%20Kernel%20Research&descAlignY=55&descSize=18"/>
-
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Building+the+future%2C+one+secure+solution+at+a+time;Kernel+%7C+Web+%7C+AI+%7C+Security;Code+%7C+Secure+%7C+Deploy+%7C+Repeat)](https://git.io/typing-svg)
-
-<!-- Profile Views Counter -->
-![](https://komarev.com/ghpvc/?username=webspoilt&style=for-the-badge&color=00D9FF)
-
-</div>
-
----
-
-## 🚀 About Me
-
-```yaml
-name: Biswajeet Arukha
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=210&section=header&text=Biswajeet%20Arukha&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Analytics%20%7C%20Full-Stack%20Development%20%7C%20AI%20Applications&descAlignY=58&descSize=18" alt="Biswajeet Arukha header"/><a href="https://www.linkedin.com/in/webspoilt/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.earthconehomenursing.in/"><img src="https://img.shields.io/badge/Live%20Platform-EarthCone-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="EarthCone"/></a>
+<a href="https://github.com/webspoilt"><img src="https://img.shields.io/badge/GitHub-webspoilt-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="mailto:biswajeetarukha016@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</div>About
+I build practical software and analytical workflows—from full-stack web applications and dashboards to SQL/Python analysis and AI-assisted tools. I enjoy taking a problem, working through the data or product logic, and turning it into something people can use.
+- Analytics: SQL, Python, data cleaning, KPI analysis, funnels, cohorts and experimentation
+- Business intelligence: Excel/Power Query, Power BI, Tableau and dashboard interfaces
+- Full-stack: React, Node.js, Express, MongoDB, REST APIs and authentication
+- AI applications: LLM integrations, RAG concepts and natural-language data interfaces
+- Engineering workflow: Git, GitHub, Docker and deployment
 alias: webspoilt
-location: Bhubaneswar, India
-role: 
-  - Full-Stack Developer
-  - Security Researcher
-  - Kernel Enthusiast (UltraOS)
-  - AI Integration
-  - Bug Bounty Hunter
+working_at_the_intersection_of:
+  - Data and business analytics
+  - Full-stack product development
+  - AI-enabled applications
+  - Practical automation
+Featured Work
+🌐 EarthCone Home Care
+Live web platform | Full-stack web development
 
-technical_focus:
-  - OS Design & Kernel Memory Management
-  - Scalable Web Architectures (MERN/Next.js)
-  - Offensive Security (OWASP, CTF)
-  - Distributed AI Orchestration
+A deployed web platform for a home-care service, supporting service discovery and inquiry/lead-capture workflows.
+- Focus: Product experience, responsive web development, lead capture
+- Stack: React, Node.js, MongoDB Atlas, Vercel
+- Status: Live
+📈 RetainIQ
+Customer retention analytics | SQL, Python and dashboarding
 
-currently_exploring: 
-  - Post-Quantum Cryptography
-  - Distributed P2P Systems
+A project exploring customer retention and churn through cohort analysis, segment-level signals and business-oriented reporting.
+- Focus: Retention, churn cohorts, customer segments, KPI communication
+- Planned/implemented features should be documented in the repository as they are completed
+- Repository: RetainIQ
+📊 Quantitative Market & Performance Analytics — Quant_vvf
+Python | Time-series data | Risk and performance metrics
 
-motto: "Simplify the complex. Secure the simple."
-```
+A reproducible Python workflow for examining historical price series, volatility and risk-return characteristics.
+- Focus: Data processing, time-series analysis, performance metrics and reporting
+- Repository: Quant_vvf
+Project Roadmap
+<sub>These are planned portfolio builds. Their status will be updated as implementation, testing and documentation progress—rather than presenting planned functionality as completed work.</sub>
+Data Analytics & Business Analysis
+Project	What I intend to demonstrate	Planned tools	Status
+AI-Assisted Customer Retention & Churn Cohort Analytics	SQL/Pandas analysis of churn segments, retention cohorts, revenue-at-risk KPIs and an AI-assisted reporting workflow	SQL, Python, Pandas, Power BI, LLM API	🛠️ Building
+GenAI Natural-Language-to-SQL BI Dashboard	Translate business questions into validated, read-only SQL, execute against a controlled database and visualize results	Python, PostgreSQL, Streamlit, LLM API, Docker	📋 Planned
+E-Commerce Funnel, Cohort & A/B Testing Analytics	Funnel drop-off analysis, experiment hypothesis testing and metrics such as AOV, CAC and LTV	SQL, Excel/Power Query, Tableau, Statistics	📋 Planned
+Healthcare Lead Conversion & Operations Dashboard — EarthCone	Inquiry funnel, response tracking, service-tier conversion, lead categorization and operations KPIs	Excel, SQL, Power BI, AI-assisted classification	🛠️ Iterating
 
-<!-- Social Links -->
+
+Full-Stack & AI Applications
+Project	What I intend to demonstrate	Planned tools	Status
+AI-Powered Resume & Cover Letter Builder	Job-description-aware document generation, editable outputs and user workflow	MERN, LLM API, Docker Compose	📋 Planned
+Real-Time Collaborative Task & Sprint Workspace	Kanban workflow, authentication, RBAC, live updates and AI task summaries	MERN, Socket.io, JWT, Docker	📋 Planned
+Full-Stack E-Commerce Store with AI Search	Product catalog, cart, orders, admin inventory and recommendation/search experience	MERN, AI integration, Docker	📋 Planned
+AI Document Q&A & Knowledge Base (RAG)	Document ingestion, chunking, embeddings, retrieval and Q&A with secure API controls	React, Node.js, MongoDB, embeddings, Docker	📋 Planned
+
+
+Tech Stack
+<div align="center">Data & Analytics
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" alt="Excel"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/>
+<img src="https://img.shields.io/badge/Tableau-003B57?style=flat-square&logo=tableau&logoColor=white" alt="Tableau"/>Full-Stack Development
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>Tools & AI
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/LLM%20Integration-412991?style=flat-square&logo=openai&logoColor=white" alt="LLM integration"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/></div>GitHub Activity
+<div align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=webspoilt&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webspoilt&layout=compact&hide_border=true&theme=transparent" alt="Top languages"/></div>Open to Opportunities
+Data Analyst · Business Analyst · Analytics Developer · Junior MERN / Full-Stack Developer
+
+Interested in startup and mid-sized teams where I can contribute by analyzing data, building useful product features, improving workflows and shipping projects.
 <div align="center">
-
-[![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/Biswajeetarukha)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Gh0st_118)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zero.day._/)
-[![Bugcrowd](https://img.shields.io/badge/Bugcrowd-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white)](https://bugcrowd.com/webspoilt)
-
-</div>
-
----
-
-## 💻 Technical Stack
-
-<div align="center">
-
-### 🛠️ Core & Systems
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-
-### 🌐 Web & Backend
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-### 🛡️ Security & Ops
-![Kali](https://img.shields.io/badge/Kali-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
-</div>
-
----
-
-## 🌟 Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-### 🖥️ [UltraOS](https://github.com/webspoilt/ultraos)
-**Modular OS Kernel Architecture**
-
-A modular research kernel exploring hardware abstraction and process isolation.
-- **Languages**: C, Assembly
-- **Architecture**: x86_64, ARM64
-
-</td>
-<td width="50%">
-
-### 🛡️ [OmniClaw](https://github.com/webspoilt/omniclaw)
-**Sovereign Sentinel AI Security**
-
-Autonomous security orchestration platform with eBPF monitoring and behavioral risk analysis.
-- **Languages**: Python, Rust, TS
-- **Stack**: FastAPI, Tauri, eBPF
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🤖 [Code Janitor](https://github.com/webspoilt/code-janitor)
-**AI-Powered Refactoring**
-
-Combining static analysis with LLM capabilities to automate code cleaning.
-- **Status**: Production Ready
-- **Live**: [Demo](https://code-janitor-sigma.vercel.app)
-
-</td>
-<td width="50%">
-
-### 🔐 [VulnForge Academy](https://github.com/webspoilt/vulnforge-academy)
-**Security Training Ground**
-
-Deliberately vulnerable environment for mastering OWASP Top 10 exploits.
-- **Levels**: 20 (CTF-Style)
-- **Focus**: Web Penetration Testing
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 📊 GitHub Intelligence
-
-<div align="center">
-
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=webspoilt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF006E&text_color=FFFFFF&include_all_commits=true&count_private=true" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=webspoilt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=10" height="180" />
-
-<br/><br/>
-
-<!-- Streak Stats -->
-<img src="https://streak-stats.demolab.com?user=webspoilt&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=FF006E&fire=FF006E&currStreakLabel=00D9FF&sideLabels=FFFFFF&currStreakNum=00D9FF&sideNums=FFFFFF&dates=FFFFFF" width="70%" />
-
-</div>
-
----
-
-## 📅 Roadmap & Active Research
-
-<div align="center">
-
-| Objective | Focus | Status |
-| :--- | :--- | :--- |
-| **UltraOS** | Multitasking & VFS | 🚧 Implementation |
-| **OmniClaw** | P2P Knowledge Sync | 🧪 Alpha Testing |
-| **Quantum Hub** | Post-Quantum Cryptography | 📚 Researching |
-| **VulnForge** | New "Cloud Security" Track | 📅 Scheduled |
-
-</div>
-
----
-
-## 💡 Dev Insight
-
-<div align="center">
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
-
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-**Open for collaborations on:**
-- 🖥️ Kernel & Low-Level Development
-- 🔒 Cybersecurity Research & CTFs
-- 🤖 Distributed AI Systems
-
-📧 **Reach out via:** [Linktree](https://linktr.ee/Biswajeetarukha) | [Twitter](https://twitter.com/Gh0st_118) | [Bugcrowd](https://bugcrowd.com/webspoilt)
-
-</div>
-
----
-
-<div align="center">
-
-<!-- Footer Animation -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF006E,50:7B2D8E,100:00D9FF&height=120&section=footer"/>
-
-**⭐ Star my repositories if they catch your eye! ⭐**
-
-*"Stay hungry. Stay foolish. But mostly, stay secure."*
-
+<a href="https://www.linkedin.com/in/webspoilt/">LinkedIn</a> · <a href="https://github.com/webspoilt">GitHub</a> · <a href="https://www.earthconehomenursing.in/">EarthCone</a> · <a href="mailto:biswajeetarukha016@gmail.com">Email</a>
 </div>
